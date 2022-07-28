@@ -14,8 +14,8 @@ q = 337117592532677714973555912658569668821
 
 assert N == p * q
 
-rp_list = Mod(ct % p, p).nth_root(e, all = True)
-rq_list = Mod(ct % q, q).nth_root(e, all = True)
+rp_list = Mod(ct, p).nth_root(e, all = True)
+rq_list = Mod(ct, q).nth_root(e, all = True)
 
 for rp in rp_list:
     for rq in rq_list:
