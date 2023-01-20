@@ -76,7 +76,7 @@ client_rsa_ct, client_aes_ct = collect_rsa_ct_and_aes_ct(client_arc4_pt)
 server_rsa_ct, server_aes_ct = collect_rsa_ct_and_aes_ct(server_arc4_pt)
 
 nums = len(client_rsa_ct)
-for i in range(4):
+for i in range(nums):
     client_rsa_pt = rsa_decrypt(client_rsa_ct[i], server_rsa_sk)
     server_rsa_pt = rsa_decrypt(server_rsa_ct[i], client_rsa_sk)
     aes_key = strxor(client_rsa_pt, server_rsa_pt)
