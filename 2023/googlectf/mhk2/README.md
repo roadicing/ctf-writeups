@@ -11,4 +11,4 @@
 See [attachments](https://github.com/roadicing/ctf-writeups/tree/main/2023/googlectf/mhk2/attachments).
 
 ### Solutions
-See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/tetctf/mhk2/solutions).
+See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/googlectf/mhk2/solutions).
