@@ -13,4 +13,4 @@
 See [attachments](https://github.com/roadicing/ctf-writeups/tree/main/2023/googlectf/cursved/attachments).
 
 ### Solutions
-See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/tetctf/cursved/solutions).
+See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/googlectf/cursved/solutions).
