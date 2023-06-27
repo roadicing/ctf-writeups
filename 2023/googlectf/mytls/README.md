@@ -13,4 +13,4 @@
 See [attachments](https://github.com/roadicing/ctf-writeups/tree/main/2023/googlectf/mytls/attachments).
 
 ### Solutions
-See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/tetctf/mytls/solutions).
+See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/googlectf/mytls/solutions).
