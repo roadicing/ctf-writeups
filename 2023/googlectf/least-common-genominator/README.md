@@ -11,4 +11,4 @@
 See [attachments](https://github.com/roadicing/ctf-writeups/tree/main/2023/googlectf/least-common-genominator/attachments).
 
 ### Solutions
-See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/tetctf/least-common-genominator/solutions).
+See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/googlectf/least-common-genominator/solutions).
