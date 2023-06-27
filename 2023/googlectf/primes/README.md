@@ -11,4 +11,4 @@
 See [attachments](https://github.com/roadicing/ctf-writeups/tree/main/2023/googlectf/primes/attachments).
 
 ### Solutions
-See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/tetctf/primes/solutions).
+See [solutions](https://github.com/roadicing/ctf-writeups/tree/main/2023/googlectf/primes/solutions).
